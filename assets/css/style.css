@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Sacramento:400');
+body{
+    margin: 0;
+    background-color: lavender;
+}
+header {
+    height: 8em;
+    padding: 2em;
+    font-size: 2em;
+    background-image: url("../imgs/gato-header.jpg") ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Sacramento', cursive;
+    font-weight: 400;
+    color: #000000;
+}
+header h1{
+    font-size: 2.5em;
+    margin: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(36, 129, 132);
+}
+.respuesta{
+    
+    padding: 4em 2em;
+    margin: 0% 10%;
+}
+.respuesta img{
+    width: 30%;
+    vertical-align: middle;   
+}
+.texto {
+    width: 40%;
+    display: inline-block;
+    padding: 2em;   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+}
+footer{
+    background-color: pink;
+    height: 3em;
+    text-align: center;
+    padding: 0.5em;
+    color: rgb(110, 100, 60);
+}
